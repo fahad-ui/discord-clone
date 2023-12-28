@@ -1,0 +1,6 @@
+{
+  "/api/livekit/route": "app/api/livekit/route.js",
+  "/(auth)/(routes)/sign-in/[[...sign-in]]/page": "app/(auth)/(routes)/sign-in/[[...sign-in]]/page.js",
+  "/(main)/(routes)/servers/[serverId]/page": "app/(main)/(routes)/servers/[serverId]/page.js",
+  "/(main)/(routes)/servers/[serverId]/channels/[channelId]/page": "app/(main)/(routes)/servers/[serverId]/channels/[channelId]/page.js"
+}
